@@ -134,7 +134,7 @@ var APP_DATA = {
     },
     {
       "id": "3-top_bathroom",
-      "name": "Top bathroom",
+      "name": "Bottom bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -172,7 +172,7 @@ var APP_DATA = {
     },
     {
       "id": "4-bottom_bathroom",
-      "name": "Bottom bathroom",
+      "name": "Top bathroom",
       "levels": [
         {
           "tileSize": 256,
