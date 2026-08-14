@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-bottom",
-      "name": "Bottom",
+      "name": "Bottom stairs",
       "levels": [
         {
           "tileSize": 256,
@@ -46,7 +46,7 @@ var APP_DATA = {
     },
     {
       "id": "1-middle",
-      "name": "Middle",
+      "name": "Middle stairs",
       "levels": [
         {
           "tileSize": 256,
@@ -90,7 +90,7 @@ var APP_DATA = {
     },
     {
       "id": "2-top",
-      "name": "Top",
+      "name": "Top stairs",
       "levels": [
         {
           "tileSize": 256,
@@ -134,7 +134,7 @@ var APP_DATA = {
     },
     {
       "id": "3-top_bathroom",
-      "name": "Top_bathroom",
+      "name": "Bottom bathroom",
       "levels": [
         {
           "tileSize": 256,
@@ -172,7 +172,7 @@ var APP_DATA = {
     },
     {
       "id": "4-bottom_bathroom",
-      "name": "bottom_bathroom",
+      "name": "Top bathroom",
       "levels": [
         {
           "tileSize": 256,
